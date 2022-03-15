@@ -5,9 +5,13 @@
 <p>
    Meu nome é André, tenho duas paixões na vida a de "cozinhar" e a de "😄 PROGRAMAR! 😄", estou sempre me desafiando e saindo da minha zona de conforto sempre procurando     conhecer e aprender novas tecnlogias!
 </p>
-##
+
 <h1 align="center"> Liguagens que normalmente uso: </h1>
-##
+
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="VUEJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+ 
+  </div>
 
 
 
