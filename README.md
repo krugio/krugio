@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<h1 align="center"> Quem sou? </h1>
+<p>
+
+</p>
+
 <!--
 **krugio/krugio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
