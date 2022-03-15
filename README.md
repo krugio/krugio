@@ -3,15 +3,19 @@
 <h1 align="center"> Quem eu sou?! </h1>
 ##
 <p>
-   Meu nome é André, tenho duas paixões na vida a de "cozinhar" e a de "😄 PROGRAMAR! 😄", estou sempre me desafiando e saindo da minha zona de conforto sempre procurando     conhecer e aprender novas tecnlogias!
+   Meu nome é André, tenho duas paixões na vida a de "😄 PROGRAMAR! 😄" e "cozinhar" e , estou sempre me desafiando e saindo da minha zona de conforto sempre procurando     conhecer e aprender novas tecnlogias!
 </p>
 
-<h1 align="center"> Liguagens que normalmente uso: </h1>
+<h1 align="center"> Linguagems que gosto de usar:</h1>
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="VUEJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+   <img align="center" alt="VUEJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="VUEJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
+   <img align="center" alt="VUEJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+     <img align="center" alt="JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg">
+ 
 </div>
   
   
