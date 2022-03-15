@@ -1,7 +1,7 @@
 ### ⚡ Fala! DEV! 😄
 
 <h1 align="center"> Quem eu sou?! </h1>
-##
+
 <p>
    Meu nome é André, tenho duas paixões na vida a de "😄 PROGRAMAR! 😄" e "cozinhar" e , estou sempre me desafiando e saindo da minha zona de conforto sempre procurando     conhecer e aprender novas tecnlogias!
 </p>
@@ -16,6 +16,12 @@
     <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      <img align="center" alt="JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg">
  
+</div>
+<br>
+<div align="center">
+  <a href="https://github.com/krugio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krugio&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krugio&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
   
