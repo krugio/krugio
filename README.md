@@ -26,5 +26,5 @@
   <a href = "mailto:andrekrugdev@gmail.com"><img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/montoyaaa/montoyaaa/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/krugio/krugio/blob/output/github-contribution-grid-snake.svg)
 </div>
