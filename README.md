@@ -3,10 +3,10 @@
 <h1 align="center"> Quem eu sou?! </h1>
 
 <p>
-   Meu nome é André, tenho duas paixões na vida a de "😄 PROGRAMAR! 😄" e "cozinhar" e , estou sempre me desafiando e saindo da minha zona de conforto sempre procurando     conhecer e aprender novas tecnlogias!
+   Meu nome é André, tenho duas paixões na vida a de "😄 PROGRAMAR! 😄" e "cozinhar" e , estou sempre me desafiando e saindo da minha zona de conforto sempre procurando     conhecer e aprender novas tecnologias!
 </p>
 
-- 👨‍💻 Experiências Profissionais: Tenho uma restaurante
+- 👨‍💻 Experiências Profissionais: Tenho um restaurante
 - 🤔 Tecnologias favoritas: HTML, CSS ,Javascript, VUEJS, PHP
 - 📚 O que está estudando atualmente: Desenvolvimento de Aplicações Web
 - 📫 Como me encontrar: <a href="https://www.linkedin.com/in/andrekrugdev/">LinkedIn</a> e <a href="mailto:andrekrugdev@hotmail.com" target="_blank"> E-mail </a>
