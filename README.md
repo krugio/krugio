@@ -9,7 +9,7 @@
 - 👨‍💻 Experiências Profissionais: Tenho uma restaurante
 - 🤔 Tecnologias favoritas: HTML, CSS ,Javascript, VUEJS, PHP
 - 📚 O que está estudando atualmente: Desenvolvimento de Aplicações Web
-- 📫 Como me encontrar: <a href="https://www.linkedin.com/in/leticialealp/">LinkedIn</a> e <a href="mailto:andrekrugdev@hotmail.com" target="_blank"> E-mail </a>
+- 📫 Como me encontrar: <a href="https://www.linkedin.com/in/andrekrugdev/">LinkedIn</a> e <a href="mailto:andrekrugdev@hotmail.com" target="_blank"> E-mail </a>
 
 <div align="center">
   <a href="https://github.com/krugio">
