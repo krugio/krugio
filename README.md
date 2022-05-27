@@ -7,7 +7,7 @@
 </p>
 
 - 👨‍💻 Experiências Profissionais: Tenho um restaurante
-- 🤔 Tecnologias favoritas: HTML, CSS ,Javascript, VUEJS, PHP
+- 🤔 Tecnologias favoritas: HTML, CSS ,Javascript, JQUERY, VUEJS, PHP
 - 📚 O que está estudando atualmente: Desenvolvimento de Aplicações Web
 - 📫 Como me encontrar: <a href="https://www.linkedin.com/in/andrekrugdev/">LinkedIn</a> e <a href="mailto:andrekrugdev@hotmail.com" target="_blank"> E-mail </a>
 
