@@ -6,8 +6,8 @@
    Meu nome é André, tenho duas paixões na vida a de "😄 PROGRAMAR! 😄" e "cozinhar" e , estou sempre me desafiando e saindo da minha zona de conforto sempre procurando     conhecer e aprender novas tecnologias!
 </p>
 
-- 👨‍💻 Experiências Profissionais: Tenho um restaurante
-- 🤔 Tecnologias favoritas: HTML, CSS ,Javascript, JQUERY, VUEJS, PHP
+- 👨‍💻 Experiências Profissionais: Trabalho como engenheiro de qualidade de software, e sou dev fullstack
+- 🤔 Tecnologias favoritas: Reactjs, VueJS, Robot Framework, Cypress
 - 📚 O que está estudando atualmente: Desenvolvimento de Aplicações Web
 - 📫 Como me encontrar: <a href="https://www.linkedin.com/in/andrekrugdev/">LinkedIn</a> e <a href="mailto:andrekrugdev@hotmail.com" target="_blank"> E-mail </a>
 
